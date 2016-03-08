@@ -1,0 +1,1 @@
+A utility class project which binds your list of objects to a JTable table model.
